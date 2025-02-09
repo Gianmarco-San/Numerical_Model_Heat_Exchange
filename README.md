@@ -1,6 +1,6 @@
 ## Numerical Modeling of Heat Exchange in a Fluid Flowing Through a Conduit
 
-This project focuses on the finite element numerical modeling of heat exchange in a flue gas conduit, simulating convective-diffusive thermal transfer. Based on a previously designed air-based residential boiler (you can find it @ gianmarco-san.github.io) and examines how heat dissipates from the combustion gases flowing through the chimney, both inside and outside the building. The objective is to quantify temperature distribution and optimize energy recovery.
+This project focuses on the finite element numerical modeling of heat exchange in a flue gas conduit, simulating convective-diffusive thermal transfer. Based on a previously designed air-based residential boiler (you can find it @ https://gianmarco-san.github.io) and examines how heat dissipates from the combustion gases flowing through the chimney, both inside and outside the building. The objective is to quantify temperature distribution and optimize energy recovery.
 
 The governing equation accounts for convective heat transfer within the flue gases and conductive transfer through the metal walls, using a cylindrical coordinate system for computational efficiency. The model incorporates boundary conditions for internal and external environments, including Dirichlet, Neumann, and Robin conditions, ensuring realistic heat exchange representation.
 
